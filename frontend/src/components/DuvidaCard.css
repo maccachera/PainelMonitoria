@@ -1,0 +1,16 @@
+.duvida-card {
+  border: 1px solid #ccc;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: #fff; 
+}
+
+.duvida-tag {
+  font-size: 14px;
+  background-color: #eee;
+  padding: 3px 8px;
+  border-radius: 10px;
+  margin-left: 10px;
+  color: #333;
+}
